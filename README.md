@@ -1,5 +1,5 @@
 # DailyNewsRoundup
-##Basic Google Chrome launcher extension
+## Basic Google Chrome launcher extension
 
 Links from left to right include:
 * NintendoLife
